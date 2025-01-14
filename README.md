@@ -1,3 +1,5 @@
+# Example of Uncontrolled manifold (UCM) analysis
+
 This is an example of implementing the uncontrolled manifold (UCM) analysis for a four finger pressing task.
 The task is described in detail in the PDF file
 
@@ -13,6 +15,6 @@ Experimental Brain Research
 2009
 196:263-277
 
-https://10.1007/s00221-009-1846-x
+https://doi.org/10.1007/s00221-009-1846-x
 
-Please contact me by email (jason@tauex.tau.ac.il) if you have any questions, comments, or corrections
+Please contact me by email (<jason@tauex.tau.ac.il>) if you have any questions, comments, or corrections
